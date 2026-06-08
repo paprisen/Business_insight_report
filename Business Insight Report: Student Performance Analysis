@@ -1,0 +1,61 @@
+# Business Insight Report: Student Performance Analysis
+
+## 1. Objective
+
+The objective of this project is to analyze student performance data and identify factors that influence academic outcomes. The analysis is based on cleaned student performance data and visualizations created during the project.
+
+## 2. Dataset Summary
+
+The dataset contains information about 10 students, including attendance rate, study hours per week, previous grades, extracurricular activities, parental support, and final grades.
+
+## 3. Analysis Approach
+
+* Loaded and inspected the dataset using Pandas.
+* Checked for missing values and duplicate records.
+* Generated descriptive statistics.
+* Created visualizations including histogram, countplot, scatter plots, and correlation heatmap.
+* Identified patterns and relationships among variables.
+
+## 4. Key Findings
+
+### Finding 1
+
+Students with higher attendance generally achieved higher final grades.
+
+### Finding 2
+
+Study hours show a positive relationship with final academic performance.
+
+### Finding 3
+
+Previous grades are strongly associated with final grades, indicating that past performance is a useful predictor of future performance.
+
+### Finding 4
+
+Students participating in extracurricular activities tend to maintain competitive academic performance.
+
+### Finding 5
+
+The gender distribution is balanced and no major performance gap is visible between genders in this dataset.
+
+### Finding 6
+
+The correlation heatmap indicates strong positive relationships between attendance, study hours, previous grades, and final grades.
+
+## 5. Recommendations
+
+1. Encourage students to maintain high attendance levels.
+2. Promote consistent study schedules and effective time management.
+3. Provide academic support to students with low previous grades.
+4. Monitor students showing declining attendance patterns.
+5. Encourage balanced participation in extracurricular activities.
+
+## 6. Limitations
+
+* The dataset contains only 10 student records.
+
+* Additional variables may influence performance but are not included in the dataset.
+
+## 7. Conclusion
+
+The analysis suggests that attendance, study hours, and previous academic performance are the most influential factors affecting final grades. 
